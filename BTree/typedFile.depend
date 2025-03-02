@@ -1,0 +1,309 @@
+# depslib dependency file v1.0
+1570117830 source:/home/samuel/Projetos/typedFile/main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+	"intserial.h"
+
+1736971534 .h"
+
+1570067211 source:/home/samuel/Projetos/typedFile/src/header.cpp
+	"header.h"
+
+1736972392 
+
+1570044850 /home/samuel/Projetos/typedFile/include/header.h
+	"serializable.h"
+
+1730501909 ble.h"
+
+1570044844 /home/samuel/Projetos/typedFile/include/serializable.h
+	<string>
+
+1570109311 /home/samuel/Projetos/typedFile/include/record.h
+	<string>
+	"serializable.h"
+
+1570117830 /home/samuel/Projetos/typedFile/include/typedfile.h
+	<fstream>
+	<type_traits>
+
+1736975377 ts>
+
+1570039086 source:/home/samuel.dias/Projetos/typedFile/main.cpp
+	<iostream>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+
+1570044850 /home/samuel.dias/Projetos/typedFile/include/header.h
+	"serializable.h"
+
+1570044844 /home/samuel.dias/Projetos/typedFile/include/serializable.h
+	<string>
+
+1570045637 /home/samuel.dias/Projetos/typedFile/include/record.h
+	<string>
+	"serializable.h"
+
+1570045509 /home/samuel.dias/Projetos/typedFile/include/typedfile.h
+	<fstream>
+	<type_traits>
+
+1570044864 source:/home/samuel.dias/Projetos/typedFile/src/header.cpp
+	"header.h"
+
+1570069201 source:/home/samuel/Projetos/typedFile/src/intserial.cpp
+	"intserial.h"
+
+1570069193 /home/samuel/Projetos/typedFile/include/intserial.h
+	"serializable.h"
+
+1730504653 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\src\header.cpp
+	"header.h"
+
+1730504653 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\include\header.h
+	"serializable.h"
+
+1570044844 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\include\serializable.h
+	<string>
+
+1730503805 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\src\intserial.cpp
+	"intserial.h"
+
+1730501909 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\include\intserial.h
+	"serializable.h"
+
+1730505652 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile-clean\main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"intserial.h"
+
+1730504653 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\src\header.cpp
+	"header.h"
+
+1730504653 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\include\header.h
+	"serializable.h"
+
+1570044844 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\include\serializable.h
+	<string>
+
+1730503805 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\src\intserial.cpp
+	"intserial.h"
+
+1730501909 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\include\intserial.h
+	"serializable.h"
+
+1731020740 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+	"intserial.h"
+
+1730829034 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\include\record.h
+	<string>
+	"serializable.h"
+
+1731020147 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\typedfile\include\typedfile.h
+	<fstream>
+	<type_traits>
+
+1736975093 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+	"intserial.h"
+	"node.h"
+	"Btree.h"
+	"randomNumberGenerator.h"
+	"blockOrganization.h"
+	"blockInterleaving.h"
+
+1736975093 rleaving.h"
+
+1730504653 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\header.h
+	"serializable.h"
+
+1570044844 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\serializable.h
+	<string>
+
+1734371966 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\record.h
+	<string>
+	"serializable.h"
+	"node.h"
+
+1736975377 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\typedfile.h
+	<fstream>
+	<type_traits>
+
+1730501909 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\intserial.h
+	"serializable.h"
+
+1730504653 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\src\header.cpp
+	"header.h"
+
+1736281680 source:g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\src\intserial.cpp
+	"intserial.h"
+
+1736968589 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\node.h
+	<vector>
+
+1736971534 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\btree.h
+	<queue>
+	<utility>
+	"node.h"
+	"typedfile.h"
+
+1736828514 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\randomnumbergenerator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Btree.h"
+
+1736810413 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\blockorganization.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1736972392 g:\outros computadores\meu laptop\kevenn.pasta\projects\codeblocks\tp-passado\btree - kevenn\include\blockinterleaving.h
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+
+1737026892 source:/home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+	"intserial.h"
+	"node.h"
+	"BTree.h"
+	"randomNumberGenerator.h"
+	"blockOrganization.h"
+	"blockInterleaving.h"
+
+1730504653 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/header.h
+	"serializable.h"
+
+1570044844 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/serializable.h
+	<string>
+
+1734371966 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/record.h
+	<string>
+	"serializable.h"
+	"node.h"
+
+1736968589 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/node.h
+	<vector>
+
+1736975377 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/typedfile.h
+	<fstream>
+	<type_traits>
+
+1730501909 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/intserial.h
+	"serializable.h"
+
+1737026689 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/randomNumberGenerator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"BTree.h"
+
+1736810413 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/blockOrganization.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1736972392 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/blockInterleaving.h
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+
+1730504653 source:/home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/src/header.cpp
+	"header.h"
+
+1736281680 source:/home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/src/intserial.cpp
+	"intserial.h"
+
+1736971534 /home/lazaro/BTree - Kevenn_Lazaro/BTree - Kevenn_Lazaro/include/BTree.h
+	<queue>
+	<utility>
+	"node.h"
+	"typedfile.h"
+
+1737026892 source:c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedfile.h"
+	"intserial.h"
+	"node.h"
+	"BTree.h"
+	"randomNumberGenerator.h"
+	"blockOrganization.h"
+	"blockInterleaving.h"
+
+1730504653 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\header.h
+	"serializable.h"
+
+1570044844 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\serializable.h
+	<string>
+
+1734371966 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\record.h
+	<string>
+	"serializable.h"
+	"node.h"
+
+1736968589 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\node.h
+	<vector>
+
+1736975377 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\typedfile.h
+	<fstream>
+	<type_traits>
+
+1730501909 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\intserial.h
+	"serializable.h"
+
+1736971534 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\btree.h
+	<queue>
+	<utility>
+	"node.h"
+	"typedfile.h"
+
+1737026689 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\randomnumbergenerator.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"BTree.h"
+
+1736810413 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\blockorganization.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1736972392 c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\include\blockinterleaving.h
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+
+1730504653 source:c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\src\header.cpp
+	"header.h"
+
+1736281680 source:c:\users\pc\downloads\btree - kevenn_lazaro\btree - kevenn_lazaro\btree - kevenn_lazaro\src\intserial.cpp
+	"intserial.h"
+
