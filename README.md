@@ -1,2 +1,2 @@
 # BTree em memoria secundária
- Árvore b com dados serializados em memoria secundaria
+ Implementação de Árvore B em Memória Secundária com dados serializados
